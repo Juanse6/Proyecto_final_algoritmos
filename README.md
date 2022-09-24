@@ -19,5 +19,6 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 
 
 ## Objetivos
+- identificar atraves de los conceptos vistos cuales son aquellos que permiten la realizacion del proyecto 
 ## Requerimientos
 
