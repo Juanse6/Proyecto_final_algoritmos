@@ -25,6 +25,8 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 - Evaluar las condiciones usadas en elproyecto para el funcionamiento del mismo
 - facilitar los calculos matematicos para la obtencion de molaridad y presion, digitando valores numericos por teclado
 - Realizar e ilustrar una herramienta química, mediante lo aprendido del lenguaje de digitación Python
-## Entrada, Salidas y Caja negra 
-
+## Entradas, Salidas y Caja negra 
+Como entradas para gases ideales, le sera solicitado al usuario que digite el valor de los moles, la presion, el volumen y la temperatura dependiendo lo que se desea calcular;con los valores digitados se procede a calcular mediante la formula de PV=nRT despejando las variables de la misma segun lo que el usuario haya solicitado, dicho valor le sera mostrado en pantalla con los valores decimales mas aproximados, teniendo en cuenta que la R es 0,08205 atm*L/moles*K
+para las entradas de la molaridad, le sera solicitado al usuario que digite el valor de los moles de solucion y el volumen total de la misma; Dichos valores seran divididos entre si de la siguiente manera: moles de solucion / Litros de Solucion, mostrando en pantalla el valor de la molaridad (M)
+para las entradas de molalidad, le sera solicitado al usuario que digite los valores de los moles del soluto y la masa del solvente para asi realizar la division de la siguiente manera: moles soluto/masa solvente y asi mostrar en pantalla el valor de la molalidad.
 
