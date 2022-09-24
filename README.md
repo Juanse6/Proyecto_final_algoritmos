@@ -21,6 +21,7 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 ## Objetivo General
 - identificar atraves de los conceptos vistos cuales son aquellos que permiten la realizacion del proyecto 
 ## Objetivos especificos
-- Realizar e ilustrar una herramienta Quimica, mediante lo aprendido por el uso del lenguaje de digitación Python.
+- Evaluar las condiciones usadas en elproyecto para el funcionamiento del mismo
+- facilitar los calculos matematicos para la obtencion de molaridad y presion, digitando valores numericos por teclado
 ## Requerimientos
 
