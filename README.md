@@ -11,7 +11,9 @@ de una calculadora de molaridad y de presión para gases ideales, la que nosostr
 A continuación encontrara una breve descripción acerca de como fue la realización del proyecto final , en nuesto caso una calculadora de molaridad y presión de gases ideales , la cual le permitira ejecutar una serie de operaciones matemáticas mediante la digitación de ciertos datos requeridos que usted puede ejecutar a partir de la terminal de un computador que tenga instalado Python , el cual sera el lenguaje de programacion que permitira llevar a cabo dichas operaciones y que posteriormente le entregara tambien el resultado de dicha operación matemática.
 
 ## Formulacion del problema
+Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea quimicos y/o ingenieros quimicos es de mucha mas facilidad a la hora de estudiar el comportamieto en procesos de conversion, velocidades de reaccion, isobaricos, isotermicos, adiabaticos, entre otros,el uso de una calculadora que permita hallar y/o identificar la presion y la concentracion de diversos compuestos usados en la industria, para asi tener una mayor efectividad a la hora de ralizar diversos analisis en cuanto a los cambios presentes en dichos procesos asociados las variables mencionadas, y asi cumplir con diferentes requerimientos para llevar a cabo un proceso existoso que cumpla con las medidas pertinentes en la industria o bien sea para el desarrollo de un nuevo concepto y/o idea planteada por los estudiantes 
 ## Justificacion 
+
 ## Objetivos
 ## Requerimientos
 
