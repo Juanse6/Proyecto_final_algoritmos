@@ -12,7 +12,11 @@ A continuación encontrara una breve descripción acerca de como fue la realizac
 
 ## Formulacion del problema
 Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea quimicos y/o ingenieros quimicos es de mucha mas facilidad a la hora de estudiar el comportamieto en procesos de conversion, velocidades de reaccion, isobaricos, isotermicos, adiabaticos, entre otros,el uso de una calculadora que permita hallar y/o identificar la presion y la concentracion de diversos compuestos usados en la industria, para asi tener una mayor efectividad a la hora de ralizar diversos analisis en cuanto a los cambios presentes en dichos procesos asociados las variables mencionadas, y asi cumplir con diferentes requerimientos para llevar a cabo un proceso existoso que cumpla con las medidas pertinentes en la industria o bien sea para el desarrollo de un nuevo concepto y/o idea planteada por los estudiantes 
+
+![Imagen de quimica](https://previews.123rf.com/images/fineart/fineart1211/fineart121100020/16188819-man%C3%B3metro-de-presi%C3%B3n-industrial-con-tubo-de-medici%C3%B3n-del-caudal.jpg)
+
 ## Justificacion 
+
 
 ## Objetivos
 ## Requerimientos
