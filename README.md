@@ -16,7 +16,7 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 ![Imagen de quimica](https://previews.123rf.com/images/fineart/fineart1211/fineart121100020/16188819-man%C3%B3metro-de-presi%C3%B3n-industrial-con-tubo-de-medici%C3%B3n-del-caudal.jpg)
 
 ## Justificacion 
-Día a día los estudiantes se ven afectados en el área de Química debido a cálculos erróneos en la elaboración de ejercicios en esta, esto es provocado por mal digitación en la calculadora y por el paso a paso que deben seguir. Seguido a él margen de error que tienen los estudiantes en estas áreas se propuso crear una herramienta que con tan solo añadir las variables conocidas y un clic en el botón de Enter podrán conocer la variable desconocida con una precisión y rapidez efectiva. 
+Día a día los estudiantes se ven afectados en el área de Química debido a cálculos erróneos en la elaboración de ejercicios de la misma, esto es provocado por errores como la mala digitación en la calculadora y por el paso a paso que deben seguir,por lo cual se propuso crear una herramienta que con tan solo añadir las variables conocidas y un clic en el botón de Enter podrán conocer la variable desconocida con una precisión y rapidez efectiva. 
 ## Objetivo General
 - identificar atraves de los conceptos vistos cuales son aquellos que permiten la realizacion del proyecto 
 ## Objetivos especificos
