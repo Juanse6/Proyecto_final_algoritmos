@@ -63,7 +63,7 @@ elif a=='5':
     presion=float(input())
     t=temperatura_gas_ideal(moles, presion,volumen)    
     print('La temperatura es: ',t,'K')
- elif a=='6':
+elif a=='6':
     print('ingrese moles de soluto')
     moles=float(input())
     print('ingrese masa del solvente')
