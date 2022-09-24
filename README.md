@@ -18,7 +18,9 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 ## Justificacion 
 
 
-## Objetivos
+## Objetivo General
 - identificar atraves de los conceptos vistos cuales son aquellos que permiten la realizacion del proyecto 
+## Objetivos especificos
+- 
 ## Requerimientos
 
