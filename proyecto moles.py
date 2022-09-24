@@ -17,7 +17,7 @@ def molalidad(moles, kg): #  funcion que calcula la molaridad
     c = moles/(kg)
     return c
 
-print("bienvenido si desea calcular la moralidad digite 1, si desea calcular la presion de un gas ideal digite 2, si desa calcular el volumen digite 3, si desea calcular los moles digite 4, si desa calcular la temperatura digite 5 ")
+print("bienvenido si desea calcular la moralidad digite 1, si desea calcular la presion de un gas ideal digite 2, si desea calcular el volumen digite 3, si desea calcular los moles digite 4, si desea calcular la temperatura digite 5, si desea calcular la molalidad digite 6 ")
 a=input() # lo que entra el usuario 
 
 if a=='1': #el usuario metio 1
