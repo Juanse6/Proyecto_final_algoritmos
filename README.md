@@ -24,6 +24,7 @@ Teniendo en cuenta lo anterior, se encontro que para los estudiantes bien sea qu
 ## Objetivos especificos
 - Evaluar las condiciones usadas en elproyecto para el funcionamiento del mismo
 - facilitar los calculos matematicos para la obtencion de molaridad y presion, digitando valores numericos por teclado
-- Realizar e ilustrar una herramienta química, mediante de lo aprendido por el uso del lenguaje de digitación Python
-## Requerimientos
+- Realizar e ilustrar una herramienta química, mediante lo aprendido del lenguaje de digitación Python
+## Entrada, Salidas y Caja negra 
+
 
