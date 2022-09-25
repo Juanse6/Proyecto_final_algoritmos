@@ -27,7 +27,7 @@ if a=='1': #el usuario metio 1
     v=float(input())
     m=molaridad(m,v)
     print('la molaridad es:', m)
-elif a=='2':
+elif a=='2': #El usurario metio 2
     print('ingrese las moles')
     moles=float(input())
     print('ingrese temperatura (K)')
@@ -36,7 +36,7 @@ elif a=='2':
     volumen=float(input())
     p=presion_gas_ideal(moles, temperatura, volumen)    
     print('la presion del gas ideal es: ',p,'atm')
-elif a=='3':
+elif a=='3': #El usuario metio 3
     print('ingrese las moles')
     moles=float(input())
     print('ingrese temperatura (K)')
@@ -45,7 +45,7 @@ elif a=='3':
     presion=float(input())
     v=volumen_gas_ideal(moles, temperatura, presion)    
     print('El volumen es: ',v,'Litros')
-elif a=='4':
+elif a=='4': #El ususario metio 4
     print('ingrese la presion')
     presion=float(input())
     print('ingrese temperatura (K)')
@@ -54,7 +54,7 @@ elif a=='4':
     volumen=float(input())
     m=moles_gas_ideal(volumen, temperatura, presion)    
     print('Las moles son: ',m,)
-elif a=='5':
+elif a=='5':#El usuario metio 5
     print('ingrese las moles')
     moles=float(input())
     print('ingrese volumen (L)')
@@ -63,7 +63,7 @@ elif a=='5':
     presion=float(input())
     t=temperatura_gas_ideal(moles, presion,volumen)    
     print('La temperatura es: ',t,'K')
-elif a=='6':
+elif a=='6':#El usuario metio 6
     print('ingrese moles de soluto')
     moles=float(input())
     print('ingrese masa del solvente')
